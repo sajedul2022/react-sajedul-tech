@@ -1,0 +1,196 @@
+<section className="slider-section">
+          <div className="tp-banner-container">
+            <div className="tp-banner">
+              <ul>
+                {/* <!-- SLIDE  --> */}
+                <li
+                  data-transition="fade"
+                  data-slotamount="7"
+                  data-masterspeed="1000"
+                  data-thumb="assets/images/slider/slider-1.jpg"
+                  data-delay="13000"
+                  data-title="We are Consult Care"
+                >
+                  {/* <!-- MAIN IMAGE --> */}
+                  <img
+                    src="assets/images/slider/slider-1.jpg"
+                    alt="newslide2014_1"
+                    data-bgposition="center top"
+                    data-bgfit="cover"
+                    data-bgrepeat="no-repeat"
+                  />
+                  {/* <!-- LAYERS --> */}
+
+                  {/* <!-- LAYER NR. 1 --> */}
+                  <div
+                    className="tp-caption large-text text-center customin customout"
+                    data-x="center"
+                    data-y="260"
+                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-speed="1800"
+                    data-start="500"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="chars"
+                    data-splitout="chars"
+                    data-elementdelay="0.08"
+                    data-endelementdelay="0.08"
+                    data-end="8000"
+                    data-endspeed="500"
+                    style="z-index: 2;"
+                  >
+                    {" "}
+                    <h1>
+                      We care about your <br /> business
+                    </h1>
+                  </div>
+
+                  {/* <!-- LAYER NR. 2 --> */}
+                  <div
+                    className="tp-caption small-text text-center customin customout rs-parallaxlevel-0"
+                    data-x="center"
+                    data-y="550"
+                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-speed="2000"
+                    data-start="3300"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-end="11000"
+                    data-endspeed="2000"
+                    data-linktoslide="next"
+                    style="z-index: 8;"
+                  >
+                    {" "}
+                    We have been trusted advisors to the world's foremost
+                    organizations. Consult Care is a self-owned <br /> firm,
+                    committed to helping clients.
+                  </div>
+
+                  {/* <!-- LAYER NR. 3 --> */}
+                  <div
+                    className="tp-caption lfb ltt"
+                    data-x="center"
+                    data-y="675"
+                    data-speed="1800"
+                    data-start="4500"
+                    data-easing="Power4.easeOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.1"
+                    data-end="12000"
+                    data-endspeed="1800"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 3;"
+                  >
+                    <div className="link-button hidden-xs">
+                      <a href="#" className="btn btn-primary">
+                        About us
+                      </a>
+                      <a href="#" className="btn btn-default">
+                        Contact
+                      </a>
+                    </div>{" "}
+                    {/* <!-- link-button --> */}
+                  </div>
+                </li>
+
+                <li
+                  data-transition="fade"
+                  data-slotamount="7"
+                  data-masterspeed="1000"
+                  data-thumb="assets/images/slider/slider-3.jpg"
+                  data-delay="13000"
+                  data-title="We are Consult Care"
+                >
+                  {/* <!-- MAIN IMAGE --> */}
+                  <img
+                    src="assets/images/slider/slider-3.jpg"
+                    alt="newslide2014_1"
+                    data-bgposition="center top"
+                    data-bgfit="cover"
+                    data-bgrepeat="no-repeat"
+                  />
+                  {/* <!-- LAYERS --> */}
+
+                  {/* <!-- LAYER NR. 1 --> */}
+                  <div
+                    className="tp-caption large-text customin customout"
+                    data-x="430"
+                    data-y="260"
+                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-speed="1800"
+                    data-start="500"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="chars"
+                    data-splitout="chars"
+                    data-elementdelay="0.08"
+                    data-endelementdelay="0.08"
+                    data-end="8000"
+                    data-endspeed="500"
+                    style="z-index: 2;"
+                  >
+                    {" "}
+                    <h1>
+                      Improve your business <br /> & grow up
+                    </h1>
+                  </div>
+
+                  {/* <!-- LAYER NR. 2 --> */}
+                  <div
+                    className="tp-caption small-text customin customout rs-parallaxlevel-0"
+                    data-x="430"
+                    data-y="550"
+                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-speed="2000"
+                    data-start="3300"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-end="11000"
+                    data-endspeed="2000"
+                    data-linktoslide="next"
+                    style="z-index: 8;"
+                  >
+                    {" "}
+                    ConsultCare is an international consultancy that provides
+                    connected thinking, <br /> insight and capability to
+                    industry leading organisations.
+                  </div>
+
+                  {/* <!-- LAYER NR. 3 --> */}
+                  <div
+                    className="tp-caption lfb ltt"
+                    data-x="430"
+                    data-y="675"
+                    data-speed="1800"
+                    data-start="4500"
+                    data-easing="Power4.easeOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.1"
+                    data-end="12000"
+                    data-endspeed="1800"
+                    data-endeasing="Power4.easeIn"
+                    style="z-index: 3;"
+                  >
+                    <div className="link-button hidden-xs">
+                      <a href="#" className="btn btn-primary">
+                        Learn More
+                      </a>
+                      <a href="#" className="btn btn-default">
+                        Contact
+                      </a>
+                    </div>{" "}
+                    {/* <!-- link-button --> */}
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>

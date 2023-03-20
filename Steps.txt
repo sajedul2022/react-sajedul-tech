@@ -1,0 +1,40 @@
+
+1. replace comment
+
+<!-- 
+{/* <!--
+
+
+-->
+--> */}
+
+2. sub dropdown
+
+    <ul class="sub-dropdown">
+        <li><Link href="single-one.html">Home-1</Link></li>
+        <li><Link href="single-two.html">Home-2</Link></li>
+        <li><Link href="single-three.html">Home-3</Link></li>
+        <li><Link href="single-four.html">Home-4</Link></li>
+    </ul>
+
+3.  npm install react-scroll
+
+4. page create
+
+Login.js
+Register.js
+Service.js
+Products.js
+Clients.js
+Careers.js
+Portfolio.js
+Testimonials.js
+BEPartner.js
+Feedback.js
+Sitemap.js
+TermsUse.js
+PrivacyPolicy.js
+RefundPolicies.js
+
+
+
